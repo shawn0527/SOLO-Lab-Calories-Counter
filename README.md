@@ -1,5 +1,9 @@
-`
-<div class="userInfo">
+![Demo](demo.gif)
+
+
+
+
+<!-- <div class="userInfo">
 	<div>
 		<p>USER's NAME</p>
 		<img src=User's image>
@@ -10,4 +14,4 @@
 		</form>
 		<button>Reset Calories</button>
 	</div>
-</div>`
+</div> -->
