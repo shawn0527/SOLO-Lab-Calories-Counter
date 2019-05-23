@@ -14,11 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     selectTag.append(opTitle)
 
     function fetchingUsers(){
-        fetch(usersURL)
-        .then(res => res.json())
-        .then(obj => {
-            // call renderUser function for each user
-        })
+        //request dara from server and call renderUser function for each user
     }
 
     function renderUser(user){
