@@ -1,0 +1,8 @@
+class UserInfo{
+   
+    renderUserInfo(user){
+        
+    }
+
+
+}
