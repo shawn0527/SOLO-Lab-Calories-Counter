@@ -5,7 +5,7 @@
       "name": "Mr. Cute",
       "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 100
       }
     },
     {
@@ -13,7 +13,7 @@
       "name": "Mr. Monkey",
       "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 40
       }
     },
     {
@@ -29,7 +29,7 @@
       "name": "Master Lion",
       "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 123
       }
     },
     {
@@ -37,7 +37,7 @@
       "name": "Mr. Panda",
       "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "calories": {
-        "total_calories": 0
+        "total_calories": 10
       }
     },
     {
@@ -47,6 +47,22 @@
       "calories": {
         "total_calories": 0
       }
+    },
+    {
+      "id": 8,
+      "name": "Charles",
+      "image": "https://static1.squarespace.com/static/5800342fcd0f6806efaa6077/580034d4be65946dfe910d77/581148e23e00be2c5f3d049d/1477527785181/Minion+Team+%2812%29.png",
+      "calories": {
+        "total_calories": 7
+      }
+    },
+    {
+      "name": "Kevin",
+      "image": "https://media1.giphy.com/media/1uPiL9Amv5zkk/giphy.gif",
+      "calories": {
+        "total_calories": 0
+      },
+      "id": 9
     }
   ]
 }
